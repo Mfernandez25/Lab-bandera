@@ -1,0 +1,19 @@
+#amarillo{
+	border:1px solid yellow;
+	background-color: yellow;
+	height: 80px;
+	width: 170px;
+	padding: 10px;
+	margin: 5px;
+	display: inline-block;	
+}
+
+#rojo {
+	border: 1px solid red;
+	background-color: red;
+	height: 80px;
+	width: 170px;
+	padding: 10px;
+	margin: 5px;
+	display: inline-block;
+}
